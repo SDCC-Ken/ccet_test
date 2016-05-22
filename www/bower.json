@@ -1,0 +1,16 @@
+{
+  "name": "Callilearning",
+  "authors": [
+    "SPEED"
+  ],
+  "description": "CCET2016 SPEED Team",
+  "main": "",
+  "license": "GNU-GPL3",
+  "homepage": "",
+  "private": true,
+  "directory": "www/bower_component",
+  "dependencies": {
+    "resemblejs": "^2.2.0",
+    "bootstrap": "^3.3.6"
+  }
+}
